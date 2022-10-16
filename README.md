@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/Abumalik"><img src="https://api.daily.dev/devcards/ca507960abc94005a7f78e635b525f73.png?r=yx7" width="400" alt="Amr Ahmed Ibrahim Hassan's Dev Card"/></a>
 <!--
 **Abumalikamr/Abumalikamr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
